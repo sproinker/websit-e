@@ -15,7 +15,7 @@ export default function Home() {
         <p className="description">hi</p>
       </main>
 
-      
+      </Footer>
     </div>
   )
 }
