@@ -11,10 +11,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="fasdfasdfsdfasdfasdf" />
-        <p className="description">
-          Get started by <code>pages/index.js</code>
-        </p>
+        <Header title="sproink" />
+        <p className="description">hi</p>
       </main>
 
       <Footer />
