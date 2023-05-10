@@ -12,9 +12,11 @@ export default function Home() {
 
       <main>
         <Header title="sproink" />
-        <p className="description">hi</p>
+        <p className="description">socials:</p>
+        <p classname="socials" href="reddit.com/user/TESVE791">reddit</p>
+        <p classname="socials 2" href="github.com/sproinker">github</p>
       </main>
-
+      
       </Footer>
     </div>
   )
